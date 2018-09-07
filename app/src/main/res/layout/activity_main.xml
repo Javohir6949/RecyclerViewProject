@@ -7,7 +7,7 @@
 
 <TextView
     android:layout_centerInParent="true"
-    android:text="This is for first test commit"
+    android:text="This is for last test commit"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content" />
 
